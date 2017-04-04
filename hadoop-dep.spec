@@ -1300,7 +1300,6 @@ Source1291 : https://repo.maven.apache.org/maven2/xmlunit/xmlunit/1.5/xmlunit-1.
 Source1292 : https://repo.maven.apache.org/maven2/xmlunit/xmlunit/1.5/xmlunit-1.5.pom
 Source1293 : https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 Source1294 : https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
-###############
 Source1295 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-15/plexus-container-default-1.0-alpha-15.jar
 Source1296 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-15/plexus-container-default-1.0-alpha-15.pom
 Source1297 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-api/1.0-alpha-15/plexus-component-api-1.0-alpha-15.jar
@@ -1357,8 +1356,227 @@ Source1347 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-arc
 Source1348 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.pom
 Source1349 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.jar
 Source1350 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.pom
+#Source1351 : http://repository.jboss.org/nexus/content/groups/public/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+#Source1352 : http://repository.jboss.org/nexus/content/groups/public/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+#Source1353 : http://repository.jboss.org/nexus/content/groups/public/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
+Source1354 : https://repo.maven.apache.org/maven2/bcel/bcel/5.1/bcel-5.1.jar
+Source1355 : https://repo.maven.apache.org/maven2/bcel/bcel/5.1/bcel-5.1.pom
+Source1356 : https://repo.maven.apache.org/maven2/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.jar
+Source1357 : https://repo.maven.apache.org/maven2/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.pom
+Source1358 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.jar
+Source1359 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.pom
+Source1360 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/bcel-findbugs/6.0/bcel-findbugs-6.0.jar
+Source1361 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/bcel-findbugs/6.0/bcel-findbugs-6.0.pom
+Source1362 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/findbugs/3.0.0/findbugs-3.0.0.jar
+Source1363 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/findbugs/3.0.0/findbugs-3.0.0.pom
+Source1364 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/jFormatString/3.0.0/jFormatString-3.0.0.jar
+Source1365 : https://repo.maven.apache.org/maven2/com/google/code/findbugs/jFormatString/3.0.0/jFormatString-3.0.0.pom
+Source1366 : https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+Source1367 : https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+Source1368 : https://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.1/commons-collections-3.1.jar
+Source1369 : https://repo.maven.apache.org/maven2/commons-io/commons-io/2.0.1/commons-io-2.0.1.pom
+Source1370 : https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.jar
+Source1371 : https://repo.maven.apache.org/maven2/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.pom
+Source1372 : https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+Source1373 : https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+Source1374 : https://repo.maven.apache.org/maven2/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar
+Source1375 : https://repo.maven.apache.org/maven2/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.pom
+Source1376 : https://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar
+Source1377 : https://repo.maven.apache.org/maven2/jaxen/jaxen/1.1.6/jaxen-1.1.6.pom
+Source1378 : https://repo.maven.apache.org/maven2/jgoodies/plastic/1.2.0/plastic-1.2.0.jar
+Source1379 : https://repo.maven.apache.org/maven2/jgoodies/plastic/1.2.0/plastic-1.2.0.pom
+Source1380 : https://repo.maven.apache.org/maven2/joda-time/joda-time/1.6.2/joda-time-1.6.2.jar
+Source1381 : https://repo.maven.apache.org/maven2/joda-time/joda-time/1.6.2/joda-time-1.6.2.pom
+Source1382 : https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+Source1383 : https://repo.maven.apache.org/maven2/org/apache/apache/1/apache-1.pom
+Source1384 : https://repo.maven.apache.org/maven2/org/apache/bcel/bcel/5.2/bcel-5.2.jar
+Source1385 : https://repo.maven.apache.org/maven2/org/apache/bcel/bcel/5.2/bcel-5.2.pom
+Source1386 : https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+Source1387 : https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/15/commons-parent-15.pom
+Source1388 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.0-alpha-10/doxia-core-1.0-alpha-10.pom
+Source1389 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.pom
+Source1390 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.3/doxia-core-1.1.3.jar
+Source1391 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-core/1.1.3/doxia-core-1.1.3.pom
+Source1392 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.0-alpha-10/doxia-decoration-model-1.0-alpha-10.pom
+Source1393 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.pom
+Source1394 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.3/doxia-decoration-model-1.1.3.jar
+Source1395 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.1.3/doxia-decoration-model-1.1.3.pom
+Source1396 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.jar
+Source1397 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1.2/doxia-logging-api-1.1.2.pom
+Source1398 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1.3/doxia-logging-api-1.1.3.jar
+Source1399 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-logging-api/1.1.3/doxia-logging-api-1.1.3.pom
+Source1400 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-apt/1.0-alpha-10/doxia-module-apt-1.0-alpha-10.pom
+Source1401 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.0-alpha-10/doxia-module-fml-1.0-alpha-10.pom
+Source1402 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.pom
+Source1403 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.3/doxia-module-fml-1.1.3.jar
+Source1404 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.1.3/doxia-module-fml-1.1.3.pom
+Source1405 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.jar
+Source1406 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xdoc/1.0-alpha-10/doxia-module-xdoc-1.0-alpha-10.pom
+Source1407 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.0-alpha-10/doxia-module-xhtml-1.0-alpha-10.pom
+Source1408 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.pom
+Source1409 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.3/doxia-module-xhtml-1.1.3.jar
+Source1410 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-module-xhtml/1.1.3/doxia-module-xhtml-1.1.3.pom
+Source1411 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.0-alpha-10/doxia-modules-1.0-alpha-10.pom
+Source1412 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.1.2/doxia-modules-1.1.2.pom
+Source1413 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-modules/1.1.3/doxia-modules-1.1.3.pom
+Source1414 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1.2/doxia-sink-api-1.1.2.pom
+Source1415 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1.3/doxia-sink-api-1.1.3.jar
+Source1416 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.1.3/doxia-sink-api-1.1.3.pom
+Source1417 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.0-alpha-10/doxia-site-renderer-1.0-alpha-10.pom
+Source1418 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.pom
+Source1419 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.3/doxia-site-renderer-1.1.3.jar
+Source1420 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.1.3/doxia-site-renderer-1.1.3.pom
+Source1421 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.jar
+Source1422 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.0-alpha-10/doxia-sitetools-1.0-alpha-10.pom
+Source1423 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.1.2/doxia-sitetools-1.1.2.pom
+Source1424 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sitetools/1.1.3/doxia-sitetools-1.1.3.pom
+Source1425 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1.2/doxia-1.1.2.pom
+Source1426 : https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.1.3/doxia-1.1.3.pom
+Source1427 : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.jar
+Source1428 : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.pom
+Source1429 : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.10/maven-plugin-descriptor-2.0.10.jar
+Source1430 : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.10/maven-plugin-descriptor-2.0.10.pom
+Source1431 : https://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.1/maven-2.0.1.pom
+Source1432 : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7/maven-project-info-reports-plugin-2.7.jar
+Source1433 : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7/maven-project-info-reports-plugin-2.7.pom
+Source1434 : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.4/maven-reporting-api-2.0.4.pom
+Source1435 : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.0.4.1/maven-reporting-impl-2.0.4.1.pom
+Source1436 : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar
+Source1437 : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.pom
+Source1438 : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.4/maven-reporting-2.0.4.pom
+Source1439 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.8/maven-scm-api-1.8.jar
+Source1440 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-api/1.8/maven-scm-api-1.8.pom
+Source1441 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.8/maven-scm-manager-plexus-1.8.jar
+Source1442 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-manager-plexus/1.8/maven-scm-manager-plexus-1.8.pom
+Source1443 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-managers/1.8/maven-scm-managers-1.8.pom
+Source1444 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8/maven-scm-provider-cvs-commons-1.8.jar
+Source1445 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8/maven-scm-provider-cvs-commons-1.8.pom
+Source1446 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8/maven-scm-provider-cvsexe-1.8.jar
+Source1447 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8/maven-scm-provider-cvsexe-1.8.pom
+Source1448 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8/maven-scm-provider-cvsjava-1.8.jar
+Source1449 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8/maven-scm-provider-cvsjava-1.8.pom
+Source1450 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.8/maven-scm-provider-git-commons-1.8.jar
+Source1451 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-git-commons/1.8/maven-scm-provider-git-commons-1.8.pom
+Source1452 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.8/maven-scm-provider-gitexe-1.8.jar
+Source1453 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-gitexe/1.8/maven-scm-provider-gitexe-1.8.pom
+Source1454 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-hg/1.8/maven-scm-provider-hg-1.8.jar
+Source1455 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-hg/1.8/maven-scm-provider-hg-1.8.pom
+Source1456 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-perforce/1.8/maven-scm-provider-perforce-1.8.jar
+Source1457 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-perforce/1.8/maven-scm-provider-perforce-1.8.pom
+Source1458 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-starteam/1.8/maven-scm-provider-starteam-1.8.jar
+Source1459 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-starteam/1.8/maven-scm-provider-starteam-1.8.pom
+Source1460 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8/maven-scm-provider-svn-commons-1.8.jar
+Source1461 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8/maven-scm-provider-svn-commons-1.8.pom
+Source1462 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svnexe/1.8/maven-scm-provider-svnexe-1.8.jar
+Source1463 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-provider-svnexe/1.8/maven-scm-provider-svnexe-1.8.pom
+Source1464 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-cvs/1.8/maven-scm-providers-cvs-1.8.pom
+Source1465 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-git/1.8/maven-scm-providers-git-1.8.pom
+Source1466 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers-svn/1.8/maven-scm-providers-svn-1.8.pom
+Source1467 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm-providers/1.8/maven-scm-providers-1.8.pom
+Source1468 : https://repo.maven.apache.org/maven2/org/apache/maven/scm/maven-scm/1.8/maven-scm-1.8.pom
+Source1469 : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-doxia-tools/1.2.1/maven-doxia-tools-1.2.1.jar
+Source1470 : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-doxia-tools/1.2.1/maven-doxia-tools-1.2.1.pom
+Source1471 : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-doxia-tools/1.4/maven-doxia-tools-1.4.jar
+Source1472 : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-doxia-tools/1.4/maven-doxia-tools-1.4.pom
+Source1473 : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-jar/1.1/maven-shared-jar-1.1.jar
+Source1474 : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-jar/1.1/maven-shared-jar-1.1.pom
+Source1475 : https://repo.maven.apache.org/maven2/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+Source1476 : https://repo.maven.apache.org/maven2/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+Source1477 : https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0/wagon-file-1.0.jar
+Source1478 : https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-file/1.0/wagon-file-1.0.pom
+Source1479 : https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-lightweight/1.0/wagon-http-lightweight-1.0.jar
+Source1480 : https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-lightweight/1.0/wagon-http-lightweight-1.0.pom
+Source1481 : https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/1.0/wagon-http-shared-1.0.jar
+Source1482 : https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-http-shared/1.0/wagon-http-shared-1.0.pom
+Source1483 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/feature/gmaven-feature-api/1.4/gmaven-feature-api-1.4.jar
+Source1484 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/feature/gmaven-feature-api/1.4/gmaven-feature-api-1.4.pom
+Source1485 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/feature/gmaven-feature-support/1.4/gmaven-feature-support-1.4.jar
+Source1486 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/feature/gmaven-feature-support/1.4/gmaven-feature-support-1.4.pom
+Source1487 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/feature/gmaven-feature/1.4/gmaven-feature-1.4.pom
+Source1488 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-mojo/1.4/gmaven-mojo-1.4.jar
+Source1489 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-mojo/1.4/gmaven-mojo-1.4.pom
+Source1490 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-plugin/1.4/gmaven-plugin-1.4.jar
+Source1491 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven-plugin/1.4/gmaven-plugin-1.4.pom
+Source1492 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/gmaven/1.4/gmaven-1.4.pom
+Source1493 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4/gmaven-runtime-1.5-1.4.jar
+Source1494 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4/gmaven-runtime-1.5-1.4.pom
+Source1495 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4/gmaven-runtime-api-1.4.jar
+Source1496 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4/gmaven-runtime-api-1.4.pom
+Source1497 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4/gmaven-runtime-loader-1.4.jar
+Source1498 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4/gmaven-runtime-loader-1.4.pom
+Source1499 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4/gmaven-runtime-support-1.4.jar
+Source1500 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4/gmaven-runtime-support-1.4.pom
+Source1501 : https://repo.maven.apache.org/maven2/org/codehaus/gmaven/runtime/gmaven-runtime/1.4/gmaven-runtime-1.4.pom
+Source1502 : https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all-minimal/1.5.8/groovy-all-minimal-1.5.8.jar
+Source1503 : https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all-minimal/1.5.8/groovy-all-minimal-1.5.8.pom
+Source1504 : https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/1.7.4/groovy-all-1.7.4.jar
+Source1505 : https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-all/1.7.4/groovy-all-1.7.4.pom
+Source1506 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/findbugs-maven-plugin/3.0.0/findbugs-maven-plugin-3.0.0.jar
+Source1507 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/findbugs-maven-plugin/3.0.0/findbugs-maven-plugin-3.0.0.pom
+Source1508 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+Source1509 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/mojo-parent/30/mojo-parent-30.pom
+Source1510 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8/native-maven-plugin-1.0-alpha-8.jar
+Source1511 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8/native-maven-plugin-1.0-alpha-8.pom
+Source1512 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8/maven-native-api-1.0-alpha-8.jar
+Source1513 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8/maven-native-api-1.0-alpha-8.pom
+Source1514 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8/maven-native-bcc-1.0-alpha-8.jar
+Source1515 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8/maven-native-bcc-1.0-alpha-8.pom
+Source1516 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-components/1.0-alpha-8/maven-native-components-1.0-alpha-8.pom
+Source1517 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8/maven-native-generic-c-1.0-alpha-8.jar
+Source1518 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8/maven-native-generic-c-1.0-alpha-8.pom
+Source1519 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8/maven-native-javah-1.0-alpha-8.jar
+Source1520 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8/maven-native-javah-1.0-alpha-8.pom
+Source1521 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8/maven-native-manager-1.0-alpha-8.jar
+Source1522 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8/maven-native-manager-1.0-alpha-8.pom
+Source1523 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8/maven-native-msvc-1.0-alpha-8.jar
+Source1524 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8/maven-native-msvc-1.0-alpha-8.pom
+Source1525 : https://repo.maven.apache.org/maven2/org/codehaus/mojo/natives/maven-native/1.0-alpha-8/maven-native-1.0-alpha-8.pom
+Source1526 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+Source1527 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+Source1528 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+Source1529 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+Source1530 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+Source1531 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.9/plexus-interpolation-1.9.jar
+Source1532 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.9/plexus-interpolation-1.9.pom
+Source1533 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0-alpha-4/plexus-io-1.0-alpha-4.jar
+Source1534 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.12/plexus-utils-1.5.12.pom
+Source1535 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar
+Source1536 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.jar
+Source1537 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.pom
+Source1538 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
+Source1539 : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.13/plexus-1.0.13.pom
+Source1540 : https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar
+Source1541 : https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.pom
+Source1542 : https://repo.maven.apache.org/maven2/org/netbeans/lib/cvsclient/20060125/cvsclient-20060125.jar
+Source1543 : https://repo.maven.apache.org/maven2/org/netbeans/lib/cvsclient/20060125/cvsclient-20060125.pom
+Source1544 : https://repo.maven.apache.org/maven2/org/ow2/asm/asm-debug-all/5.0.2/asm-debug-all-5.0.2.jar
+Source1545 : https://repo.maven.apache.org/maven2/org/ow2/asm/asm-debug-all/5.0.2/asm-debug-all-5.0.2.pom
+Source1546 : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.jar
+Source1547 : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.pom
+Source1548 : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.10/slf4j-parent-1.5.10.pom
+Source1549 : https://repo.maven.apache.org/maven2/org/sonatype/gossip/gossip/1.2/gossip-1.2.jar
+Source1550 : https://repo.maven.apache.org/maven2/org/sonatype/gossip/gossip/1.2/gossip-1.2.pom
+Source1551 : https://repo.maven.apache.org/maven2/org/sonatype/gossip/gossip/1.3/gossip-1.3.pom
+Source1552 : https://repo.maven.apache.org/maven2/org/sonatype/gshell/gshell-io/2.4/gshell-io-2.4.jar
+Source1553 : https://repo.maven.apache.org/maven2/org/sonatype/gshell/gshell-io/2.4/gshell-io-2.4.pom
+Source1554 : https://repo.maven.apache.org/maven2/org/sonatype/gshell/gshell/2.4/gshell-2.4.pom
+Source1555 : https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+Source1556 : https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+Source1557 : https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+Source1558 : https://repo.maven.apache.org/maven2/regexp/regexp/1.2/regexp-1.2.jar
+Source1559 : https://repo.maven.apache.org/maven2/regexp/regexp/1.2/regexp-1.2.pom
+Source1560 : https://repo.maven.apache.org/maven2/regexp/regexp/1.3/regexp-1.3.jar
+Source1561 : https://repo.maven.apache.org/maven2/regexp/regexp/1.3/regexp-1.3.pom
+Source1562 : https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
+Source1563 : https://repo.maven.apache.org/maven2/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+Source1564 : https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+Source1565 : https://repository.apache.org/content/repositories/snapshots/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+Source1566 : https://repository.apache.org/content/repositories/snapshots/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+Source1567 : https://repository.apache.org/content/repositories/snapshots/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
 
 
+
+##########
 Source1639 : https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
 Source1640 : https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
 Source1664 : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.17/surefire-junit4-2.17.pom
@@ -3189,8 +3407,340 @@ cp %{SOURCE1348} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehau
 mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.9/
 cp %{SOURCE1349} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.jar
 cp %{SOURCE1350} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.pom
+#mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0
+#cp %{SOURCE1351} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+#mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2
+#cp %{SOURCE1352} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+#mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.11.0
+#cp %{SOURCE1353} %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/bcel/bcel/5.1
+cp %{SOURCE1354} %{buildroot}/usr/share/apache-hadoop/.m2/repository/bcel/bcel/5.1/bcel-5.1.jar
+cp %{SOURCE1355} %{buildroot}/usr/share/apache-hadoop/.m2/repository/bcel/bcel/5.1/bcel-5.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/ch/ethz/ganymed/ganymed-ssh2/build210
+cp %{SOURCE1356} %{buildroot}/usr/share/apache-hadoop/.m2/repository/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.jar
+cp %{SOURCE1357} %{buildroot}/usr/share/apache-hadoop/.m2/repository/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/annotations/3.0.0
+cp %{SOURCE1358} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.jar
+cp %{SOURCE1359} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/bcel-findbugs/6.0
+cp %{SOURCE1360} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/bcel-findbugs/6.0/bcel-findbugs-6.0.jar
+cp %{SOURCE1361} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/bcel-findbugs/6.0/bcel-findbugs-6.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/findbugs/3.0.0
+cp %{SOURCE1362} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/findbugs/3.0.0/findbugs-3.0.0.jar
+cp %{SOURCE1363} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/findbugs/3.0.0/findbugs-3.0.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/jFormatString/3.0.0
+cp %{SOURCE1364} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/jFormatString/3.0.0/jFormatString-3.0.0.jar
+cp %{SOURCE1365} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/jFormatString/3.0.0/jFormatString-3.0.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-beanutils/commons-beanutils/1.8.3
+cp %{SOURCE1366} %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+cp %{SOURCE1367} %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-collections/commons-collections/3.1
+cp %{SOURCE1368} %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-collections/commons-collections/3.1/commons-collections-3.1.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-io/commons-io/2.0.1
+cp %{SOURCE1369} %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-io/commons-io/2.0.1/commons-io-2.0.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-validator/commons-validator/1.4.0
+cp %{SOURCE1370} %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.jar
+cp %{SOURCE1371} %{buildroot}/usr/share/apache-hadoop/.m2/repository/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/dom4j/dom4j/1.6.1
+cp %{SOURCE1372} %{buildroot}/usr/share/apache-hadoop/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+cp %{SOURCE1373} %{buildroot}/usr/share/apache-hadoop/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/jakarta-regexp/jakarta-regexp/1.4
+cp %{SOURCE1374} %{buildroot}/usr/share/apache-hadoop/.m2/repository/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar
+cp %{SOURCE1375} %{buildroot}/usr/share/apache-hadoop/.m2/repository/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/jaxen/jaxen/1.1.6
+cp %{SOURCE1376} %{buildroot}/usr/share/apache-hadoop/.m2/repository/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar
+cp %{SOURCE1377} %{buildroot}/usr/share/apache-hadoop/.m2/repository/jaxen/jaxen/1.1.6/jaxen-1.1.6.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/jgoodies/plastic/1.2.0
+cp %{SOURCE1378} %{buildroot}/usr/share/apache-hadoop/.m2/repository/jgoodies/plastic/1.2.0/plastic-1.2.0.jar
+cp %{SOURCE1379} %{buildroot}/usr/share/apache-hadoop/.m2/repository/jgoodies/plastic/1.2.0/plastic-1.2.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/joda-time/joda-time/1.6.2
+cp %{SOURCE1380} %{buildroot}/usr/share/apache-hadoop/.m2/repository/joda-time/joda-time/1.6.2/joda-time-1.6.2.jar
+cp %{SOURCE1381} %{buildroot}/usr/share/apache-hadoop/.m2/repository/joda-time/joda-time/1.6.2/joda-time-1.6.2.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/junit/junit/4.10
+cp %{SOURCE1382} %{buildroot}/usr/share/apache-hadoop/.m2/repository/junit/junit/4.10/junit-4.10.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/apache/1
+cp %{SOURCE1383} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/apache/1/apache-1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/bcel/bcel/5.2
+cp %{SOURCE1384} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/bcel/bcel/5.2/bcel-5.2.jar
+cp %{SOURCE1385} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/bcel/bcel/5.2/bcel-5.2.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/commons/commons-parent/{14,15}
+cp %{SOURCE1386} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/commons/commons-parent/14/commons-parent-14.pom
+cp %{SOURCE1387} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/commons/commons-parent/15/commons-parent-15.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/{1.0-alpha-10,1.1.2,1.1.3}
+cp %{SOURCE1388} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.0-alpha-10/doxia-core-1.0-alpha-10.pom
+cp %{SOURCE1389} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.pom
+cp %{SOURCE1390} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.1.3/doxia-core-1.1.3.jar
+cp %{SOURCE1391} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.1.3/doxia-core-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/{1.0-alpha-10,1.1.2,1.1.3,1.2}
+cp %{SOURCE1392} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.0-alpha-10/doxia-decoration-model-1.0-alpha-10.pom
+cp %{SOURCE1393} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.pom
+cp %{SOURCE1394} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.3/doxia-decoration-model-1.1.3.jar
+cp %{SOURCE1395} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.3/doxia-decoration-model-1.1.3.pom
+cp %{SOURCE1396} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/{1.1.2,1.1.3}
+cp %{SOURCE1397} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1.2/doxia-logging-api-1.1.2.pom
+cp %{SOURCE1398} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1.3/doxia-logging-api-1.1.3.jar
+cp %{SOURCE1399} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1.3/doxia-logging-api-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-apt/1.0-alpha-10
+cp %{SOURCE1400} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-apt/1.0-alpha-10/doxia-module-apt-1.0-alpha-10.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/{1.0-alpha-10,1.1.2,1.1.3,1.2}
+cp %{SOURCE1401} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.0-alpha-10/doxia-module-fml-1.0-alpha-10.pom
+cp %{SOURCE1402} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.pom
+cp %{SOURCE1403} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.1.3/doxia-module-fml-1.1.3.jar
+cp %{SOURCE1404} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.1.3/doxia-module-fml-1.1.3.pom
+cp %{SOURCE1405} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xdoc/1.0-alpha-10
+cp %{SOURCE1406} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xdoc/1.0-alpha-10/doxia-module-xdoc-1.0-alpha-10.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/{1.0-alpha-10,1.1.2,1.1.3,1.2}
+cp %{SOURCE1407} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.0-alpha-10/doxia-module-xhtml-1.0-alpha-10.pom
+cp %{SOURCE1408} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.pom
+cp %{SOURCE1409} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.3/doxia-module-xhtml-1.1.3.jar
+cp %{SOURCE1410} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.3/doxia-module-xhtml-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/{1.0-alpha-10,1.1.2,1.1.3,1.2}
+cp %{SOURCE1411} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/1.0-alpha-10/doxia-modules-1.0-alpha-10.pom
+cp %{SOURCE1412} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/1.1.2/doxia-modules-1.1.2.pom
+cp %{SOURCE1413} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/1.1.3/doxia-modules-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/{1.1.2,1.1.3}
+cp %{SOURCE1414} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1.2/doxia-sink-api-1.1.2.pom
+cp %{SOURCE1415} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1.3/doxia-sink-api-1.1.3.jar
+cp %{SOURCE1416} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1.3/doxia-sink-api-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/{1.0-alpha-10,1.1.2,1.1.3,1.2}
+cp %{SOURCE1417} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.0-alpha-10/doxia-site-renderer-1.0-alpha-10.pom
+cp %{SOURCE1418} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.pom
+cp %{SOURCE1419} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.3/doxia-site-renderer-1.1.3.jar
+cp %{SOURCE1420} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.3/doxia-site-renderer-1.1.3.pom
+cp %{SOURCE1421} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/{1.0-alpha-10,1.1.2,1.1.3,1.2}
+cp %{SOURCE1422} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/1.0-alpha-10/doxia-sitetools-1.0-alpha-10.pom
+cp %{SOURCE1423} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/1.1.2/doxia-sitetools-1.1.2.pom
+cp %{SOURCE1424} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/1.1.3/doxia-sitetools-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia/{1.1.2,1.1.3}
+cp %{SOURCE1425} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia/1.1.2/doxia-1.1.2.pom
+cp %{SOURCE1426} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia/1.1.3/doxia-1.1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-api/2.0.1
+cp %{SOURCE1427} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.jar
+cp %{SOURCE1428} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.10
+cp %{SOURCE1429} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.10/maven-plugin-descriptor-2.0.10.jar
+cp %{SOURCE1430} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.10/maven-plugin-descriptor-2.0.10.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven/2.0.1
+cp %{SOURCE1431} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven/2.0.1/maven-2.0.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7
+cp %{SOURCE1432} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7/maven-project-info-reports-plugin-2.7.jar
+cp %{SOURCE1433} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7/maven-project-info-reports-plugin-2.7.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.4
+cp %{SOURCE1434} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.4/maven-reporting-api-2.0.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/{2.0.4.1,2.1}
+cp %{SOURCE1435} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/2.0.4.1/maven-reporting-impl-2.0.4.1.pom
+cp %{SOURCE1436} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar
+cp %{SOURCE1437} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.4
+cp %{SOURCE1438} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.4/maven-reporting-2.0.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-api/1.8
+cp %{SOURCE1439} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-api/1.8/maven-scm-api-1.8.jar
+cp %{SOURCE1440} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-api/1.8/maven-scm-api-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-manager-plexus/1.8
+cp %{SOURCE1441} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-manager-plexus/1.8/maven-scm-manager-plexus-1.8.jar
+cp %{SOURCE1442} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-manager-plexus/1.8/maven-scm-manager-plexus-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-managers/1.8
+cp %{SOURCE1443} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-managers/1.8/maven-scm-managers-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8
+cp %{SOURCE1444} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8/maven-scm-provider-cvs-commons-1.8.jar
+cp %{SOURCE1445} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8/maven-scm-provider-cvs-commons-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8
+cp %{SOURCE1446} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8/maven-scm-provider-cvsexe-1.8.jar
+cp %{SOURCE1447} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8/maven-scm-provider-cvsexe-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8
+cp %{SOURCE1448} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8/maven-scm-provider-cvsjava-1.8.jar
+cp %{SOURCE1449} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8/maven-scm-provider-cvsjava-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-git-commons/1.8
+cp %{SOURCE1450} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-git-commons/1.8/maven-scm-provider-git-commons-1.8.jar
+cp %{SOURCE1451} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-git-commons/1.8/maven-scm-provider-git-commons-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-gitexe/1.8
+cp %{SOURCE1452} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-gitexe/1.8/maven-scm-provider-gitexe-1.8.jar
+cp %{SOURCE1453} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-gitexe/1.8/maven-scm-provider-gitexe-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-hg/1.8
+cp %{SOURCE1454} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-hg/1.8/maven-scm-provider-hg-1.8.jar
+cp %{SOURCE1455} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-hg/1.8/maven-scm-provider-hg-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-perforce/1.8
+cp %{SOURCE1456} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-perforce/1.8/maven-scm-provider-perforce-1.8.jar
+cp %{SOURCE1457} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-perforce/1.8/maven-scm-provider-perforce-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-starteam/1.8
+cp %{SOURCE1458} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-starteam/1.8/maven-scm-provider-starteam-1.8.jar
+cp %{SOURCE1459} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-starteam/1.8/maven-scm-provider-starteam-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8
+cp %{SOURCE1460} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8/maven-scm-provider-svn-commons-1.8.jar
+cp %{SOURCE1461} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8/maven-scm-provider-svn-commons-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svnexe/1.8
+cp %{SOURCE1462} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svnexe/1.8/maven-scm-provider-svnexe-1.8.jar
+cp %{SOURCE1463} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svnexe/1.8/maven-scm-provider-svnexe-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-cvs/1.8
+cp %{SOURCE1464} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-cvs/1.8/maven-scm-providers-cvs-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-git/1.8
+cp %{SOURCE1465} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-git/1.8/maven-scm-providers-git-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-svn/1.8
+cp %{SOURCE1466} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-svn/1.8/maven-scm-providers-svn-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers/1.8
+cp %{SOURCE1467} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers/1.8/maven-scm-providers-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm/1.8
+cp %{SOURCE1468} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm/1.8/maven-scm-1.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/{1.2.1,1.4}
+cp %{SOURCE1469} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.2.1/maven-doxia-tools-1.2.1.jar
+cp %{SOURCE1470} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.2.1/maven-doxia-tools-1.2.1.pom
+cp %{SOURCE1471} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.4/maven-doxia-tools-1.4.jar
+cp %{SOURCE1472} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.4/maven-doxia-tools-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-shared-jar/1.1
+cp %{SOURCE1473} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-shared-jar/1.1/maven-shared-jar-1.1.jar
+cp %{SOURCE1474} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-shared-jar/1.1/maven-shared-jar-1.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0
+cp %{SOURCE1475} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2
+cp %{SOURCE1476} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-file/1.0
+cp %{SOURCE1477} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-file/1.0/wagon-file-1.0.jar
+cp %{SOURCE1478} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-file/1.0/wagon-file-1.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-lightweight/1.0
+cp %{SOURCE1479} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-lightweight/1.0/wagon-http-lightweight-1.0.jar
+cp %{SOURCE1480} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-lightweight/1.0/wagon-http-lightweight-1.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0
+cp %{SOURCE1481} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0/wagon-http-shared-1.0.jar
+cp %{SOURCE1482} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0/wagon-http-shared-1.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-api/1.4
+cp %{SOURCE1483} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-api/1.4/gmaven-feature-api-1.4.jar
+cp %{SOURCE1484} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-api/1.4/gmaven-feature-api-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-support/1.4
+cp %{SOURCE1485} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-support/1.4/gmaven-feature-support-1.4.jar
+cp %{SOURCE1486} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-support/1.4/gmaven-feature-support-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature/1.4
+cp %{SOURCE1487} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature/1.4/gmaven-feature-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-mojo/1.4
+cp %{SOURCE1488} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-mojo/1.4/gmaven-mojo-1.4.jar
+cp %{SOURCE1489} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-mojo/1.4/gmaven-mojo-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-plugin/1.4
+cp %{SOURCE1490} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-plugin/1.4/gmaven-plugin-1.4.jar
+cp %{SOURCE1491} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-plugin/1.4/gmaven-plugin-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven/1.4
+cp %{SOURCE1492} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven/1.4/gmaven-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4
+cp %{SOURCE1493} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4/gmaven-runtime-1.5-1.4.jar
+cp %{SOURCE1494} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4/gmaven-runtime-1.5-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4
+cp %{SOURCE1495} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4/gmaven-runtime-api-1.4.jar
+cp %{SOURCE1496} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4/gmaven-runtime-api-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4
+cp %{SOURCE1497} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4/gmaven-runtime-loader-1.4.jar
+cp %{SOURCE1498} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4/gmaven-runtime-loader-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4
+cp %{SOURCE1499} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4/gmaven-runtime-support-1.4.jar
+cp %{SOURCE1500} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4/gmaven-runtime-support-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime/1.4
+cp %{SOURCE1501} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime/1.4/gmaven-runtime-1.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all-minimal/1.5.8
+cp %{SOURCE1502} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all-minimal/1.5.8/groovy-all-minimal-1.5.8.jar
+cp %{SOURCE1503} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all-minimal/1.5.8/groovy-all-minimal-1.5.8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all/1.7.4
+cp %{SOURCE1504} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all/1.7.4/groovy-all-1.7.4.jar
+cp %{SOURCE1505} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all/1.7.4/groovy-all-1.7.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/findbugs-maven-plugin/3.0.0
+cp %{SOURCE1506} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/findbugs-maven-plugin/3.0.0/findbugs-maven-plugin-3.0.0.jar
+cp %{SOURCE1507} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/findbugs-maven-plugin/3.0.0/findbugs-maven-plugin-3.0.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/mojo-parent/{28,30}
+cp %{SOURCE1508} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+cp %{SOURCE1509} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/mojo-parent/30/mojo-parent-30.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8
+cp %{SOURCE1510} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8/native-maven-plugin-1.0-alpha-8.jar
+cp %{SOURCE1511} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8/native-maven-plugin-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8
+cp %{SOURCE1512} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8/maven-native-api-1.0-alpha-8.jar
+cp %{SOURCE1513} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8/maven-native-api-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8
+cp %{SOURCE1514} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8/maven-native-bcc-1.0-alpha-8.jar
+cp %{SOURCE1515} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8/maven-native-bcc-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-components/1.0-alpha-8
+cp %{SOURCE1516} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-components/1.0-alpha-8/maven-native-components-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8
+cp %{SOURCE1517} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8/maven-native-generic-c-1.0-alpha-8.jar
+cp %{SOURCE1518} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8/maven-native-generic-c-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8
+cp %{SOURCE1519} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8/maven-native-javah-1.0-alpha-8.jar
+cp %{SOURCE1520} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8/maven-native-javah-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8
+cp %{SOURCE1521} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8/maven-native-manager-1.0-alpha-8.jar
+cp %{SOURCE1522} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8/maven-native-manager-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8
+cp %{SOURCE1523} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8/maven-native-msvc-1.0-alpha-8.jar
+cp %{SOURCE1524} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8/maven-native-msvc-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native/1.0-alpha-8
+cp %{SOURCE1525} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native/1.0-alpha-8/maven-native-1.0-alpha-8.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.4
+cp %{SOURCE1526} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+cp %{SOURCE1527} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-components/1.1.7
+cp %{SOURCE1528} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-digest/1.0
+cp %{SOURCE1529} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+cp %{SOURCE1530} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.9
+cp %{SOURCE1531} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.9/plexus-interpolation-1.9.jar
+cp %{SOURCE1532} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.9/plexus-interpolation-1.9.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-io/1.0-alpha-4
+cp %{SOURCE1533} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-io/1.0-alpha-4/plexus-io-1.0-alpha-4.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/{1.5.12,1.5.6,2.0.1,3.0.3}
+cp %{SOURCE1534} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.12/plexus-utils-1.5.12.pom
+cp %{SOURCE1535} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar
+cp %{SOURCE1536} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.jar
+cp %{SOURCE1537} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.pom
+cp %{SOURCE1538} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus/1.0.13
+cp %{SOURCE1539} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus/1.0.13/plexus-1.0.13.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/jsoup/jsoup/1.6.1
+cp %{SOURCE1540} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar
+cp %{SOURCE1541} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/netbeans/lib/cvsclient/20060125
+cp %{SOURCE1542} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/netbeans/lib/cvsclient/20060125/cvsclient-20060125.jar
+cp %{SOURCE1543} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/netbeans/lib/cvsclient/20060125/cvsclient-20060125.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/ow2/asm/asm-debug-all/5.0.2
+cp %{SOURCE1544} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/ow2/asm/asm-debug-all/5.0.2/asm-debug-all-5.0.2.jar
+cp %{SOURCE1545} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/ow2/asm/asm-debug-all/5.0.2/asm-debug-all-5.0.2.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-api/1.5.10
+cp %{SOURCE1546} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.jar
+cp %{SOURCE1547} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-parent/1.5.10
+cp %{SOURCE1548} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-parent/1.5.10/slf4j-parent-1.5.10.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/{1.2,1.3}
+cp %{SOURCE1549} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/1.2/gossip-1.2.jar
+cp %{SOURCE1550} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/1.2/gossip-1.2.pom
+cp %{SOURCE1551} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/1.3/gossip-1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell-io/2.4
+cp %{SOURCE1552} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell-io/2.4/gshell-io-2.4.jar
+cp %{SOURCE1553} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell-io/2.4/gshell-io-2.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell/2.4
+cp %{SOURCE1554} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell/2.4/gshell-2.4.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7
+cp %{SOURCE1555} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+cp %{SOURCE1556} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/spice/spice-parent/15
+cp %{SOURCE1557} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/regexp/regexp/{1.2,1.3}
+cp %{SOURCE1558} %{buildroot}/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.2/regexp-1.2.jar
+cp %{SOURCE1559} %{buildroot}/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.2/regexp-1.2.pom
+cp %{SOURCE1560} %{buildroot}/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.3/regexp-1.3.jar
+cp %{SOURCE1561} %{buildroot}/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.3/regexp-1.3.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/{2.11.0,2.8.1}
+cp %{SOURCE1562} %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
+cp %{SOURCE1563} %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/xml-apis/xml-apis/1.3.03
+cp %{SOURCE1564} %{buildroot}/usr/share/apache-hadoop/.m2/repository/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0
+cp %{SOURCE1565} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2
+cp %{SOURCE1566} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.11.0
+cp %{SOURCE1567} %{buildroot}/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
 
 
+
+##############
 mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/javassist/javassist/3.18.1-GA
 cp %{SOURCE1639} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
 cp %{SOURCE1640} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
@@ -4640,3 +5190,211 @@ cp %{SOURCE1698} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/mockito
 /usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-archiver/2.3/plexus-archiver-2.3.pom
 /usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.jar
 /usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.9/plexus-utils-3.0.9.pom
+/usr/share/apache-hadoop/.m2/repository/bcel/bcel/5.1/bcel-5.1.jar
+/usr/share/apache-hadoop/.m2/repository/bcel/bcel/5.1/bcel-5.1.pom
+/usr/share/apache-hadoop/.m2/repository/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.jar
+/usr/share/apache-hadoop/.m2/repository/ch/ethz/ganymed/ganymed-ssh2/build210/ganymed-ssh2-build210.pom
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.jar
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/annotations/3.0.0/annotations-3.0.0.pom
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/bcel-findbugs/6.0/bcel-findbugs-6.0.jar
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/bcel-findbugs/6.0/bcel-findbugs-6.0.pom
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/findbugs/3.0.0/findbugs-3.0.0.jar
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/findbugs/3.0.0/findbugs-3.0.0.pom
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/jFormatString/3.0.0/jFormatString-3.0.0.jar
+/usr/share/apache-hadoop/.m2/repository/com/google/code/findbugs/jFormatString/3.0.0/jFormatString-3.0.0.pom
+/usr/share/apache-hadoop/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar
+/usr/share/apache-hadoop/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+/usr/share/apache-hadoop/.m2/repository/commons-collections/commons-collections/3.1/commons-collections-3.1.jar
+/usr/share/apache-hadoop/.m2/repository/commons-io/commons-io/2.0.1/commons-io-2.0.1.pom
+/usr/share/apache-hadoop/.m2/repository/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.jar
+/usr/share/apache-hadoop/.m2/repository/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.pom
+/usr/share/apache-hadoop/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+/usr/share/apache-hadoop/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+/usr/share/apache-hadoop/.m2/repository/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar
+/usr/share/apache-hadoop/.m2/repository/jaxen/jaxen/1.1.6/jaxen-1.1.6.pom
+/usr/share/apache-hadoop/.m2/repository/jgoodies/plastic/1.2.0/plastic-1.2.0.jar
+/usr/share/apache-hadoop/.m2/repository/jgoodies/plastic/1.2.0/plastic-1.2.0.pom
+/usr/share/apache-hadoop/.m2/repository/joda-time/joda-time/1.6.2/joda-time-1.6.2.jar
+/usr/share/apache-hadoop/.m2/repository/joda-time/joda-time/1.6.2/joda-time-1.6.2.pom
+/usr/share/apache-hadoop/.m2/repository/junit/junit/4.10/junit-4.10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/apache/1/apache-1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/bcel/bcel/5.2/bcel-5.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/bcel/bcel/5.2/bcel-5.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/commons/commons-parent/14/commons-parent-14.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/commons/commons-parent/15/commons-parent-15.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.0-alpha-10/doxia-core-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.1.2/doxia-core-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.1.3/doxia-core-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-core/1.1.3/doxia-core-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.0-alpha-10/doxia-decoration-model-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.2/doxia-decoration-model-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.3/doxia-decoration-model-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.1.3/doxia-decoration-model-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-decoration-model/1.2/doxia-decoration-model-1.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1.2/doxia-logging-api-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1.3/doxia-logging-api-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-logging-api/1.1.3/doxia-logging-api-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-apt/1.0-alpha-10/doxia-module-apt-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.0-alpha-10/doxia-module-fml-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.1.2/doxia-module-fml-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.1.3/doxia-module-fml-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.1.3/doxia-module-fml-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-fml/1.2/doxia-module-fml-1.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xdoc/1.0-alpha-10/doxia-module-xdoc-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.0-alpha-10/doxia-module-xhtml-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.2/doxia-module-xhtml-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.3/doxia-module-xhtml-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-module-xhtml/1.1.3/doxia-module-xhtml-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/1.0-alpha-10/doxia-modules-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/1.1.2/doxia-modules-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-modules/1.1.3/doxia-modules-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1.2/doxia-sink-api-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1.3/doxia-sink-api-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sink-api/1.1.3/doxia-sink-api-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.0-alpha-10/doxia-site-renderer-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.2/doxia-site-renderer-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.3/doxia-site-renderer-1.1.3.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.1.3/doxia-site-renderer-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-site-renderer/1.2/doxia-site-renderer-1.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/1.0-alpha-10/doxia-sitetools-1.0-alpha-10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/1.1.2/doxia-sitetools-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia-sitetools/1.1.3/doxia-sitetools-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia/1.1.2/doxia-1.1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/doxia/doxia/1.1.3/doxia-1.1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-api/2.0.1/maven-plugin-api-2.0.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.10/maven-plugin-descriptor-2.0.10.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven-plugin-descriptor/2.0.10/maven-plugin-descriptor-2.0.10.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/maven/2.0.1/maven-2.0.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7/maven-project-info-reports-plugin-2.7.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/plugins/maven-project-info-reports-plugin/2.7/maven-project-info-reports-plugin-2.7.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.4/maven-reporting-api-2.0.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/2.0.4.1/maven-reporting-impl-2.0.4.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting-impl/2.1/maven-reporting-impl-2.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.4/maven-reporting-2.0.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-api/1.8/maven-scm-api-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-api/1.8/maven-scm-api-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-manager-plexus/1.8/maven-scm-manager-plexus-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-manager-plexus/1.8/maven-scm-manager-plexus-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-managers/1.8/maven-scm-managers-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8/maven-scm-provider-cvs-commons-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvs-commons/1.8/maven-scm-provider-cvs-commons-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8/maven-scm-provider-cvsexe-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsexe/1.8/maven-scm-provider-cvsexe-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8/maven-scm-provider-cvsjava-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-cvsjava/1.8/maven-scm-provider-cvsjava-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-git-commons/1.8/maven-scm-provider-git-commons-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-git-commons/1.8/maven-scm-provider-git-commons-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-gitexe/1.8/maven-scm-provider-gitexe-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-gitexe/1.8/maven-scm-provider-gitexe-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-hg/1.8/maven-scm-provider-hg-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-hg/1.8/maven-scm-provider-hg-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-perforce/1.8/maven-scm-provider-perforce-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-perforce/1.8/maven-scm-provider-perforce-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-starteam/1.8/maven-scm-provider-starteam-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-starteam/1.8/maven-scm-provider-starteam-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8/maven-scm-provider-svn-commons-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svn-commons/1.8/maven-scm-provider-svn-commons-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svnexe/1.8/maven-scm-provider-svnexe-1.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-provider-svnexe/1.8/maven-scm-provider-svnexe-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-cvs/1.8/maven-scm-providers-cvs-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-git/1.8/maven-scm-providers-git-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers-svn/1.8/maven-scm-providers-svn-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm-providers/1.8/maven-scm-providers-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/scm/maven-scm/1.8/maven-scm-1.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.2.1/maven-doxia-tools-1.2.1.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.2.1/maven-doxia-tools-1.2.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.4/maven-doxia-tools-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-doxia-tools/1.4/maven-doxia-tools-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-shared-jar/1.1/maven-shared-jar-1.1.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/shared/maven-shared-jar/1.1/maven-shared-jar-1.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-default-skin/1.0/maven-default-skin-1.0.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/skins/maven-stylus-skin/1.2/maven-stylus-skin-1.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-file/1.0/wagon-file-1.0.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-file/1.0/wagon-file-1.0.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-lightweight/1.0/wagon-http-lightweight-1.0.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-lightweight/1.0/wagon-http-lightweight-1.0.pom
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0/wagon-http-shared-1.0.jar
+/usr/share/apache-hadoop/.m2/repository/org/apache/maven/wagon/wagon-http-shared/1.0/wagon-http-shared-1.0.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-api/1.4/gmaven-feature-api-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-api/1.4/gmaven-feature-api-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-support/1.4/gmaven-feature-support-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature-support/1.4/gmaven-feature-support-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/feature/gmaven-feature/1.4/gmaven-feature-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-mojo/1.4/gmaven-mojo-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-mojo/1.4/gmaven-mojo-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-plugin/1.4/gmaven-plugin-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven-plugin/1.4/gmaven-plugin-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/gmaven/1.4/gmaven-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4/gmaven-runtime-1.5-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-1.5/1.4/gmaven-runtime-1.5-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4/gmaven-runtime-api-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-api/1.4/gmaven-runtime-api-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4/gmaven-runtime-loader-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-loader/1.4/gmaven-runtime-loader-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4/gmaven-runtime-support-1.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime-support/1.4/gmaven-runtime-support-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/gmaven/runtime/gmaven-runtime/1.4/gmaven-runtime-1.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all-minimal/1.5.8/groovy-all-minimal-1.5.8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all-minimal/1.5.8/groovy-all-minimal-1.5.8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all/1.7.4/groovy-all-1.7.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/groovy/groovy-all/1.7.4/groovy-all-1.7.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/findbugs-maven-plugin/3.0.0/findbugs-maven-plugin-3.0.0.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/findbugs-maven-plugin/3.0.0/findbugs-maven-plugin-3.0.0.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/mojo-parent/28/mojo-parent-28.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/mojo-parent/30/mojo-parent-30.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8/native-maven-plugin-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/native-maven-plugin/1.0-alpha-8/native-maven-plugin-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8/maven-native-api-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-api/1.0-alpha-8/maven-native-api-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8/maven-native-bcc-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-bcc/1.0-alpha-8/maven-native-bcc-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-components/1.0-alpha-8/maven-native-components-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8/maven-native-generic-c-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-generic-c/1.0-alpha-8/maven-native-generic-c-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8/maven-native-javah-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-javah/1.0-alpha-8/maven-native-javah-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8/maven-native-manager-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-manager/1.0-alpha-8/maven-native-manager-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8/maven-native-msvc-1.0-alpha-8.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native-msvc/1.0-alpha-8/maven-native-msvc-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/mojo/natives/maven-native/1.0-alpha-8/maven-native-1.0-alpha-8.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.9/plexus-interpolation-1.9.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-interpolation/1.9/plexus-interpolation-1.9.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-io/1.0-alpha-4/plexus-io-1.0-alpha-4.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.12/plexus-utils-1.5.12.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/1.5.6/plexus-utils-1.5.6.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.jar
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus-utils/3.0.3/plexus-utils-3.0.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/codehaus/plexus/plexus/1.0.13/plexus-1.0.13.pom
+/usr/share/apache-hadoop/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar
+/usr/share/apache-hadoop/.m2/repository/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.pom
+/usr/share/apache-hadoop/.m2/repository/org/netbeans/lib/cvsclient/20060125/cvsclient-20060125.jar
+/usr/share/apache-hadoop/.m2/repository/org/netbeans/lib/cvsclient/20060125/cvsclient-20060125.pom
+/usr/share/apache-hadoop/.m2/repository/org/ow2/asm/asm-debug-all/5.0.2/asm-debug-all-5.0.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/ow2/asm/asm-debug-all/5.0.2/asm-debug-all-5.0.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.jar
+/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.pom
+/usr/share/apache-hadoop/.m2/repository/org/slf4j/slf4j-parent/1.5.10/slf4j-parent-1.5.10.pom
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/1.2/gossip-1.2.jar
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/1.2/gossip-1.2.pom
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/gossip/gossip/1.3/gossip-1.3.pom
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell-io/2.4/gshell-io-2.4.jar
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell-io/2.4/gshell-io-2.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/gshell/gshell/2.4/gshell-2.4.pom
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.jar
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/plexus/plexus-build-api/0.0.7/plexus-build-api-0.0.7.pom
+/usr/share/apache-hadoop/.m2/repository/org/sonatype/spice/spice-parent/15/spice-parent-15.pom
+/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.2/regexp-1.2.jar
+/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.2/regexp-1.2.pom
+/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.3/regexp-1.3.jar
+/usr/share/apache-hadoop/.m2/repository/regexp/regexp/1.3/regexp-1.3.pom
+/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.11.0/xercesImpl-2.11.0.jar
+/usr/share/apache-hadoop/.m2/repository/xerces/xercesImpl/2.8.1/xercesImpl-2.8.1.pom
+/usr/share/apache-hadoop/.m2/repository/xml-apis/xml-apis/1.3.03/xml-apis-1.3.03.pom
