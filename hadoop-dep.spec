@@ -1,6 +1,6 @@
 Name     : hadoop-dep
 Version  : 2.7.3
-Release  : 3
+Release  : 4
 URL      : https://repo.maven.apache.org/maven2
 Summary  : No detailed summary available
 Group    : Development/Tools
