@@ -1511,7 +1511,7 @@ Source1502 : http://repo1.maven.org/maven2/org/javassist/javassist/3.18.1-GA/jav
 Source1503 : http://repo1.maven.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
 Source1504 : http://repo1.maven.org/maven2/org/jboss/netty/netty/3.2.4.Final/netty-3.2.4.Final.jar
 Source1505 : http://repo1.maven.org/maven2/org/jboss/netty/netty/3.2.4.Final/netty-3.2.4.Final.pom
-Source1506 : https://repository.apache.org/content/repositories/snapshots/org/jboss/jboss-parent/5/jboss-parent-5.pom
+Source1506 : http://repo1.maven.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
 
 %description
 Hadoop-dep is a compilation of all jar files and pom files needed by Hadoop
