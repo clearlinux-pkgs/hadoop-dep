@@ -81,9 +81,9 @@ d94d040e8ce2ae7ff75945227e262e369445f736/google-5.pom
 60580a8547dbb8ede5e52564ccd724f79e758c81/guice-parent-3.0.pom
 9d84f15fe35e2c716a02979fb62f50a29f38aefa/guice-3.0.jar
 d3e26a6e796c435400b7f406c1a458609c910497/guice-3.0.pom
-9f301d1a27501b1afcb2ed16aad428337dabf9e4/protobuf-java-3.3.0.jar
-edf94e0e44a5f54b04bbf930193ebddeb4f8ea7f/protobuf-java-3.3.0.pom
-b59348384a68aaefd0cacf7ff43503ec7ccc8163/protobuf-parent-3.3.0.pom
+b32aba0cbe737a4ca953f71688725972e3ee927c/protobuf-java-3.4.0.jar
+100272b91d96ed5b41df4bb11ba543140c36bd30/protobuf-java-3.4.0.pom
+5d9f2b22310a535c4597b4ed3691e000221b3a17/protobuf-parent-3.4.0.pom
 5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar
 a2c3a73d894b86ac979b88be6537b284eb4bf916/json-simple-1.1.pom
 ac5962e48cdee3a0a6e1f8e00fcb594747ac5aaf/java-xmlbuilder-0.4.jar

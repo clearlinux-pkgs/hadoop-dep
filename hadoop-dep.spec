@@ -88,9 +88,9 @@ Source79 : https://repo.maven.apache.org/maven2/com/google/inject/extensions/gui
 Source80 : https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/3.0/guice-parent-3.0.pom
 Source81 : https://repo.maven.apache.org/maven2/com/google/inject/guice/3.0/guice-3.0.jar
 Source82 : https://repo.maven.apache.org/maven2/com/google/inject/guice/3.0/guice-3.0.pom
-Source83 : https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.3.0/protobuf-java-3.3.0.jar
-Source84 : https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.3.0/protobuf-java-3.3.0.pom
-Source85 : https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.3.0/protobuf-parent-3.3.0.pom
+Source83 : https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.4.0/protobuf-java-3.4.0.jar
+Source84 : https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.4.0/protobuf-java-3.4.0.pom
+Source85 : https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.4.0/protobuf-parent-3.4.0.pom
 Source86 : https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
 Source87 : https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
 Source88 : https://repo.maven.apache.org/maven2/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar
@@ -1692,12 +1692,12 @@ mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/inject/g
 cp %{SOURCE81} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/inject/guice/3.0
 mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/inject/guice/3.0
 cp %{SOURCE82} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/inject/guice/3.0
-mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.3.0
-cp %{SOURCE83} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.3.0
-mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.3.0
-cp %{SOURCE84} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.3.0
-mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-parent/3.3.0
-cp %{SOURCE85} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-parent/3.3.0
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.4.0
+cp %{SOURCE83} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.4.0
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.4.0
+cp %{SOURCE84} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.4.0
+mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-parent/3.4.0
+cp %{SOURCE85} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-parent/3.4.0
 mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/googlecode/json-simple/json-simple/1.1
 cp %{SOURCE86} %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/googlecode/json-simple/json-simple/1.1
 mkdir -p %{buildroot}/usr/share/apache-hadoop/.m2/repository/com/googlecode/json-simple/json-simple/1.1
@@ -4625,9 +4625,9 @@ cp %{SOURCE1506} %{buildroot}/usr/share/apache-hadoop/.m2/repository/org/jboss/j
 /usr/share/apache-hadoop/.m2/repository/com/google/inject/guice-parent/3.0/guice-parent-3.0.pom
 /usr/share/apache-hadoop/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar
 /usr/share/apache-hadoop/.m2/repository/com/google/inject/guice/3.0/guice-3.0.pom
-/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.3.0/protobuf-java-3.3.0.jar
-/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.3.0/protobuf-java-3.3.0.pom
-/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-parent/3.3.0/protobuf-parent-3.3.0.pom
+/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.4.0/protobuf-java-3.4.0.jar
+/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-java/3.4.0/protobuf-java-3.4.0.pom
+/usr/share/apache-hadoop/.m2/repository/com/google/protobuf/protobuf-parent/3.4.0/protobuf-parent-3.4.0.pom
 /usr/share/apache-hadoop/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
 /usr/share/apache-hadoop/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
 /usr/share/apache-hadoop/.m2/repository/com/jamesmurty/utils/java-xmlbuilder/0.4/java-xmlbuilder-0.4.jar
