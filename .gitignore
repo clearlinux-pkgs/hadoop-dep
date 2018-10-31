@@ -1,2 +1,13 @@
+# brough by make generatedupstream
 /*.jar
 /*.pom
+
+# created by make-deps.sh
+/sources.txt
+/install.txt
+/files.txt
+/metadata-*.patch
+
+# local build artifacts
+/results
+/rpms
