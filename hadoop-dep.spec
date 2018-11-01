@@ -1,6 +1,6 @@
 Name     : hadoop-dep
 Version  : 2.8.5
-Release  : 12
+Release  : 13
 URL      : https://repo.maven.apache.org/maven2
 Summary  : No detailed summary available
 Group    : Development/Tools
