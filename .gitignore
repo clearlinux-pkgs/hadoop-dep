@@ -6,7 +6,6 @@
 /sources.txt
 /install.txt
 /files.txt
-/metadata-*.patch
 
 # local build artifacts
 /results
