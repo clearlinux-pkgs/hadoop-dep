@@ -54,10 +54,18 @@ cd "${HADOOP_DIR}"
 PATCHES=$(grep ^Patch "${REPO_DIR}/../apache-hadoop/apache-hadoop.spec" | sed -e 's/Patch[0-9]\+\s*:\s*\(\S\)\s*/\1/')
 
 for p in $PATCHES; do
+    echo patching $p
     patch -p1 < "${REPO_DIR}/../apache-hadoop/${p}"
 done
 
-mvn package -Pnative -Pdist -DskipTests -Dtar || exit 1
+export JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk
+
+mvn package -Pnative -Pdist -DskipTests -Dtar \
+    -Danimal.sniffer.skip=true \
+    -Dmaven.javadoc.skip=true \
+    -Djavac.version=11 \
+    -Dguava.version=19.0 \
+    -Dmaven.plugin-tools.version=3.6.0 || exit 1
 
 cd "${REPO_DIR}"
 
